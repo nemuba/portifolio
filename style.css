@@ -73,6 +73,13 @@ ul{
 .sobre-img img:hover{
   filter: brightness(121%);
 }
+@media(max-width: 600px){
+  .sobre-img img{
+    margin: 0 60px;
+    width: 300px;
+    height: 300px;
+  }
+}
 .sobre-info{
   flex: 3 1 400px;
   margin: 60px auto;
