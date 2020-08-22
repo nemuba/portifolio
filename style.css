@@ -169,6 +169,7 @@ ul{
   border-radius: 10px;
   border: 1px solid #f7f7f7;
   transition: all .3s;
+  margin: 20px 40px;
 }
 .projetos-container div:hover{
   background: white;
